@@ -1,0 +1,12 @@
+com\mycompany\gestionempleados\logica\ControladoraPrincipalGE.class
+com\mycompany\gestionempleados\logica\Empleado_.class
+com\mycompany\gestionempleados\persistencia\exceptions\IllegalOrphanException.class
+com\mycompany\gestionempleados\GestionEmpleados.class
+com\mycompany\gestionempleados\persistencia\exceptions\NonexistentEntityException.class
+com\mycompany\gestionempleados\persistencia\EmpleadoPersistencia.class
+com\mycompany\gestionempleados\presentacion\IniciarAplicacion.class
+com\mycompany\gestionempleados\persistencia\exceptions\PreexistingEntityException.class
+com\mycompany\gestionempleados\persistencia\EmpleadoJpaController.class
+com\mycompany\gestionempleados\logica\Empleado.class
+com\mycompany\gestionempleados\presentacion\Presentacion.class
+com\mycompany\gestionempleados\presentacion\validacion\Validar.class
